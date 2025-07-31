@@ -13,7 +13,7 @@ The latest version of the guide is viewable here:
 
 ### 📄 What's Inside
 
-- What is a NITO node & who should run one
+- What is a NITO node
 - How nodes support the network
 - Requirements for running a NITO node
 - Installation steps for different operating systems

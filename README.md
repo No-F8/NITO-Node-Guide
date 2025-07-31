@@ -24,7 +24,8 @@ The latest version of the guide is viewable here:
 ### 📬 Feedback & Contributions
 
 This guide is part of an open and growing community.  
-Feel free to open an issue or PR if you have suggestions or corrections.
+Feel free to open an issue or PR if you have suggestions or improvements.
+➡️ [Open an issue](https://github.com/No-F8/nito-node-guide/issues)
 
 ### 🛠️ Maintained by
 
